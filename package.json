@@ -23,7 +23,7 @@
     "codecov": "^2.3.0",
     "cross-spawn": "^5.1.0",
     "debug": "^3.0.1",
-    "enzyme": "^2.8.2",
+    "enzyme": "^3.11.0",
     "eslint": "^4.2.0",
     "eslint-config-prettier": "^2.4.0",
     "eslint-plugin-babel": "^4.1.1",
